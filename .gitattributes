@@ -1,0 +1,4 @@
+# Los documentos finales se conservan como artefactos binarios.
+*.pdf binary
+*.pptx binary
+*.docx binary

@@ -1,5 +1,26 @@
 # CAP.11.METABOLISMO-DE-CARBOHIDRATOS
 
+## Presentación completa del resumen
+
+- [Descargar presentación editable de PowerPoint](entregables/Presentacion_completa_Metabolismo_de_carbohidratos.pptx)
+- [Abrir la presentación en PDF](entregables/Presentacion_completa_Metabolismo_de_carbohidratos.pdf)
+- [Verificación de integridad y mapa de secciones](entregables/Verificacion_presentacion.json)
+
+La presentación conserva **todos los párrafos y todas las celdas del Word**, sin resumirlos, abreviarlos ni simplificarlos. Es extensa porque la información se distribuye para mantener texto legible de **18 puntos como mínimo**: cuerpo principal de 22, cuadros de 20 y pies de 18 puntos. Los 15 temas del resumen tienen divisores e índice navegable.
+
+Se conservan las **19 imágenes originales**, con **28 vistas ampliadas** de apoyo. Los **10 esquemas de la glucólisis** se redibujan como texto y enlaces vectoriales editables con letras de 18 puntos o mayores. Los originales rasterizados del libro conservan la nitidez de la fuente comprimida; no se afirma que pueda recuperarse información perdida por compresión.
+
+El generador compara el texto visible del PowerPoint con las **1 200 unidades** de texto del Word y, adicionalmente, con todos sus nodos XML visibles. Verifica la cobertura completa de letras, cifras y símbolos, la conservación binaria de las imágenes originales y el tamaño de las fuentes. La copia PDF contiene las mismas diapositivas e incluye marcadores de sección y enlaces de navegación.
+
+Para regenerar ambos formatos:
+
+```bash
+.venv/bin/pip install -r requirements-presentacion.txt
+.venv/bin/python scripts/generar_presentacion.py
+```
+
+Las métricas y los recortes temporales se mantienen en `.cache/presentacion/`; no se incluyen en Git. La información de formato del **Word original** se conserva como tal, sin confundirse con el formato de esta presentación.
+
 ## Documento de estudio
 
 [Descargar el resumen detallado en Word](entregables/Resumen_detallado_Metabolismo_de_carbohidratos.docx)

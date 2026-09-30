@@ -1,0 +1,103 @@
+{
+  "fuente": "Resumen_detallado_Metabolismo_de_carbohidratos.docx",
+  "sha256_fuente_word": "54fac6f50271b31c6e19068597736a326cc0aa52788b00ceade99695d550bd3a",
+  "diapositivas": 380,
+  "secciones_del_resumen": 15,
+  "palabras_del_texto_fuente": 17915,
+  "unidades_textuales_fuente": 1200,
+  "cobertura_de_parrafos_y_celdas": "100%; sin letras, cifras o símbolos omitidos",
+  "minimo_tipografico_texto_editable_puntos": 18.0,
+  "tamano_texto_principal_puntos": 22,
+  "tamano_tablas_puntos": 20,
+  "tablas_del_resumen": 41,
+  "tablas_nativas_powerpoint_paginadas": 82,
+  "imagenes_originales_conservadas_sin_alteracion": 19,
+  "esquemas_quimicos_vectoriales_editables": 10,
+  "vistas_ampliadas_adicionales": 28,
+  "errores_geometricos_detectados": 0,
+  "observacion_imagenes": "El mínimo tipográfico se verifica en texto editable y esquemas nativos. El texto rasterizado del libro conserva las limitaciones de la fuente comprimida; se incluyen vistas ampliadas y explicaciones legibles.",
+  "mapa_por_seccion": {
+    "0": {
+      "inicio": 1,
+      "fin": 13,
+      "diapositivas": 13
+    },
+    "1": {
+      "inicio": 14,
+      "fin": 34,
+      "diapositivas": 21
+    },
+    "2": {
+      "inicio": 35,
+      "fin": 60,
+      "diapositivas": 26
+    },
+    "3": {
+      "inicio": 61,
+      "fin": 77,
+      "diapositivas": 17
+    },
+    "4": {
+      "inicio": 78,
+      "fin": 141,
+      "diapositivas": 64
+    },
+    "5": {
+      "inicio": 142,
+      "fin": 169,
+      "diapositivas": 28
+    },
+    "6": {
+      "inicio": 170,
+      "fin": 190,
+      "diapositivas": 21
+    },
+    "7": {
+      "inicio": 191,
+      "fin": 218,
+      "diapositivas": 28
+    },
+    "8": {
+      "inicio": 219,
+      "fin": 230,
+      "diapositivas": 12
+    },
+    "9": {
+      "inicio": 231,
+      "fin": 252,
+      "diapositivas": 22
+    },
+    "10": {
+      "inicio": 253,
+      "fin": 272,
+      "diapositivas": 20
+    },
+    "11": {
+      "inicio": 273,
+      "fin": 305,
+      "diapositivas": 33
+    },
+    "12": {
+      "inicio": 306,
+      "fin": 334,
+      "diapositivas": 29
+    },
+    "13": {
+      "inicio": 335,
+      "fin": 350,
+      "diapositivas": 16
+    },
+    "14": {
+      "inicio": 351,
+      "fin": 363,
+      "diapositivas": 13
+    },
+    "15": {
+      "inicio": 364,
+      "fin": 380,
+      "diapositivas": 17
+    }
+  },
+  "powerpoint": "Presentacion_completa_Metabolismo_de_carbohidratos.pptx",
+  "pdf": "Presentacion_completa_Metabolismo_de_carbohidratos.pdf"
+}
